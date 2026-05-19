@@ -26,7 +26,7 @@ Copy
 
 Edit
 
-git clone https://github.com/Jay-Patel-070/Homeserviceapp.git
+git clone https://github.com/ankityadav3947-alt/Home-service-app.git
 
 cd home-service-app
 
@@ -90,6 +90,6 @@ flutter build ios   # For iOS
 Report issues via GitHub
 
 
-Contact me at jayspatel420005@gmail.com for support
+Contact me at ankityadav3947@gmail.com for support
 
-Made with ❤️ by Jay 🚀
+Made with ❤️ by Ankit 🚀
